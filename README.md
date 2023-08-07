@@ -30,7 +30,7 @@ I would like to express my gratitude to the team at V3 Analytics for providing m
 
 ## Contact
 
-If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me at [poornasiva1@gmail.com](mailto:poornasiva1@gmail.com).
+If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to us at [poornasiva1@gmail.com](mailto:poornasiva1@gmail.com) or [sandeepkumarptkm@gmail.com](mailto:sandeepkumarptkm@gmail.com).
 
 ---
 **Note**: The sample output image (`sample_output.png`) is a representative example and does not reflect real-world data or sensitive information. The image is provided for demonstration purposes only.
