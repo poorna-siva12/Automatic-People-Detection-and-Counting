@@ -1,0 +1,10 @@
+train: /content/drive/MyDrive/yolo8/custom_dataset/train/
+val: /content/drive/MyDrive/yolo8/custom_dataset/val/
+
+
+# number of classes
+nc: 1
+
+
+# class names
+names: ['person']
